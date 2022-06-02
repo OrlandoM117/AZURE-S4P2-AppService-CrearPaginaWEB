@@ -1,6 +1,6 @@
 # **Como conectar una Pagina web a un servidor con Azure**
 
-## **En esta practica aprenderas con un App Service de [Azure](https://portal.azure.com/#home) podrás conectar tus archivos para conectarlos a un servidor en la nube de Azure.**
+## **En esta practica aprenderas con un App Service de [Azure](https://portal.azure.com/#home) poder conectar tus archivos para conectarlos a un servidor en la nube de Azure.**
 ![Logo de Azure](imagenes/azure.png)
 
 ---------
